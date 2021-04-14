@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "872963498221",
+    "firebase_url": "https://insta-hello-assignement-default-rtdb.firebaseio.com",
+    "project_id": "insta-hello-assignement",
+    "storage_bucket": "insta-hello-assignement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872963498221:android:aa672fe7601f34f360ace4",
+        "android_client_info": {
+          "package_name": "com.instahello.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872963498221-rojrdstko4paf08guucfuret8013k53i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHY1TRzO4Pv9k9XsK1AAYrnjRUxDUGF6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872963498221-rojrdstko4paf08guucfuret8013k53i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
